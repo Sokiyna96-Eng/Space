@@ -48,3 +48,8 @@ var con2=", you can contact us on the following email space@gmail.com"
 console.log(con1 +"  "+ con2);
 
 
+
+ 
+for (var i = 0; i < 8; i++) {
+    console.log(i);
+  }
