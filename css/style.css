@@ -1,0 +1,95 @@
+body {
+    background-color: #b7d1f1;
+    margin: 5%;
+
+}
+
+header {
+
+    /* color: aliceblue; */
+    color: beige;
+    text-align-last: center;
+    background-image: url(space.jpg) ;
+    height: 200px;
+    margin: 10%;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    font-size: 150%;
+}
+
+header nav {
+
+    color: beige;
+    margin-top: 70px;
+    padding-right: 50px;
+
+}
+
+header nav ul il {
+
+    display: inline-flex;
+
+    text-decoration: none;
+
+    color: beige;
+
+    margin-left: 2%;
+}
+
+header nav ul il  a{
+
+text-decoration: none;
+
+color: beige;
+
+}
+/* 
+#first {
+    background-color: #285f74;
+    width: 50%;
+    height: 20%;
+    text-align: center;
+    margin-left: 10px;
+    text-align: center;
+
+} */
+
+/* #first h2{
+
+font-style: inherit;
+font-size: 32px;
+margin-top: 15%;
+padding-top: 5%;
+padding-left: 1%;
+text-align: center;
+} */
+
+
+#second{
+
+    background-color: #285f74;
+    display: inline-flex;
+
+}
+
+/* .image-container{
+
+    text-align: center;
+    display: grid;
+
+} */
+
+#mainSec{
+    display: inline-flex;
+}
+    
+
+
+
+
+
+
+
+
+    
+

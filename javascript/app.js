@@ -1,7 +1,18 @@
 var favoritePlanet= prompt("Welcome to the Space webpage, can you provide us with your favorite planet ?");
 
-while(favoritePlanet!=='mercury' && favoritePlanet!=='mars')
-{favoritePlanet = prompt('Kindly chose between mercury and mars ')};
+function getFavoritePlanet(useranswer){
+
+
+    console.log(useranswer);
+    while(useranswer!=='mercury' && useranswer!=='mars')
+    {useranswer = prompt('Kindly chose between mercury and mars ')
+
+};
+
+
+}
+
+getFavoritePlanet(favoritePlanet);
 
 var numberOfpictures = prompt(" How many pictures you would like to see");
 
@@ -34,7 +45,6 @@ var con1=" Thank you for visiting our website"
 var con2=", you can contact us on the following email space@gmail.com"
 
 
-document.write(con1 +"  "+ con2)
-
+console.log(con1 +"  "+ con2);
 
 
